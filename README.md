@@ -4,7 +4,7 @@
 
 ## Language on which I work: [<img src="https://cdn-icons-png.flaticon.com/512/2/2181.png" width="26">](Python) Python.
 
-## Stacks on which I work: SQLALchemy, Tensorflow, Scikit-learn, Nextcord, Disnake, Aiogram, Sikit-Image, Pandas, Keras and much more.
+## Stacks on which I work: SQLALchemy, Tensorflow, Scikit-learn, Nextcord, Disnake, Aiogram, Sikit-Image, Pandas, Keras, NumpPy and much more.
 
 ## Language which I know: [<img src="https://upload.wikimedia.org/wikipedia/commons/4/4f/Csharp_Logo.png" width="45">](С#) C#, [<img src="https://cdn-icons-png.flaticon.com/512/2/2181.png" width="26">](Python) Python, [<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/JavaScript-logo.png/800px-JavaScript-logo.png" width="26">](JS) JS.
 
