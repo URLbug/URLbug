@@ -6,7 +6,7 @@
 
 ## Stacks on which I work: SQLALchemy, Tensorflow, Scikit-learn, Nextcord, Disnake, Aiogram, Sikit-Image, Pandas, Keras, NumpPy and much more.
 
-## Language which I know: [<img src="https://upload.wikimedia.org/wikipedia/commons/4/4f/Csharp_Logo.png" width="45">](С#) C#, [<img src="https://cdn-icons-png.flaticon.com/512/2/2181.png" width="26">](Python) Python, [<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/JavaScript-logo.png/800px-JavaScript-logo.png" width="26">](JS) JS.
+## Language which I know: [<img src="https://upload.wikimedia.org/wikipedia/commons/4/4f/Csharp_Logo.png" width="45">](С#) C#, [<img src="https://cdn-icons-png.flaticon.com/512/2/2181.png" width="26">](Python) Python, [<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/JavaScript-logo.png/800px-JavaScript-logo.png" width="26">](JS) JS,[<img src="https://upload.wikimedia.org/wikipedia/commons/1/18/ISO_C%2B%2B_Logo.svg" width="26">](C++) C++, [<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Lua-Logo.svg/1200px-Lua-Logo.svg.png" width="26">](Lua) Lua
 
 ## Data Base: [<img src="https://pngimg.com/uploads/mysql/mysql_PNG9.png" width="26">](MySQL) MySQL.
 
