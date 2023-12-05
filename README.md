@@ -1,12 +1,12 @@
 # Hi everyone ✋
 
-## I`m Rui Carter and I doing neural network, and bots in [<img src="https://cdn-icons-png.flaticon.com/512/87/87413.png" width="26">](Telegram) Telegram, [<img src="https://assets-global.website-files.com/6257adef93867e50d84d30e2/636e0a6a49cf127bf92de1e2_icon_clyde_blurple_RGB.png" width="26">](Discord) Discord. 
+## I`m Rui Carter and I doing neural network, site, and bots in [<img src="https://cdn-icons-png.flaticon.com/512/87/87413.png" width="26">](Telegram) Telegram, [<img src="https://assets-global.website-files.com/6257adef93867e50d84d30e2/636e0a6a49cf127bf92de1e2_icon_clyde_blurple_RGB.png" width="26">](Discord) Discord. 
 
 ## Language on which I work: [<img src="https://cdn-icons-png.flaticon.com/512/2/2181.png" width="26">](Python) Python.
 
 ## Stacks on which I work: SQLALchemy, Tensorflow, Scikit-learn, Nextcord, Disnake, Aiogram, Sikit-Image, Pandas, Keras, NumpPy and much more.
 
-## Language which I know: [<img src="https://upload.wikimedia.org/wikipedia/commons/4/4f/Csharp_Logo.png" width="45">](С#) C#, [<img src="https://cdn-icons-png.flaticon.com/512/2/2181.png" width="26">](Python) Python, [<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/JavaScript-logo.png/800px-JavaScript-logo.png" width="26">](JS) JS,[<img src="https://upload.wikimedia.org/wikipedia/commons/1/18/ISO_C%2B%2B_Logo.svg" width="26">](C++) C++, [<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Lua-Logo.svg/1200px-Lua-Logo.svg.png" width="26">](Lua) Lua
+## Language which I know: [<img src="https://upload.wikimedia.org/wikipedia/commons/4/4f/Csharp_Logo.png" width="45">](С#) C#, [<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/PHP-logo.svg/1200px-PHP-logo.svg.png" width="45">](PHP) PHP, [<img src="https://cdn-icons-png.flaticon.com/512/2/2181.png" width="26">](Python) Python, [<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/JavaScript-logo.png/800px-JavaScript-logo.png" width="26">](JS) JS,[<img src="https://upload.wikimedia.org/wikipedia/commons/1/18/ISO_C%2B%2B_Logo.svg" width="26">](C++) C++, [<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Lua-Logo.svg/1200px-Lua-Logo.svg.png" width="26">](Lua) Lua
 
 ## Data Base: [<img src="https://pngimg.com/uploads/mysql/mysql_PNG9.png" width="26">](MySQL) MySQL, [<img src="https://upload.wikimedia.org/wikipedia/commons/f/f8/Microsoft_Access_2013-2019_logo.svg" width="26">](Access) Access
 
