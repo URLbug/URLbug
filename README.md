@@ -2,7 +2,7 @@
 
 ## I`m Rui Carter and I doing neural network, site, and bots in [<img src="https://cdn-icons-png.flaticon.com/512/87/87413.png" width="26">](Telegram) Telegram, [<img src="https://assets-global.website-files.com/6257adef93867e50d84d30e2/636e0a6a49cf127bf92de1e2_icon_clyde_blurple_RGB.png" width="26">](Discord) Discord. 
 
-## Language on which I work: [<img src="https://cdn-icons-png.flaticon.com/512/2/2181.png" width="26">](Python) Python.
+## Language on which I work: [<img src="https://cdn-icons-png.flaticon.com/512/2/2181.png" width="26">](Python) Python, [<img src="https://upload.wikimedia.org/wikipedia/commons/4/4f/Csharp_Logo.png" width="45">](С#) C#, [<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/PHP-logo.svg/1200px-PHP-logo.svg.png" width="45">](PHP) PHP.
 
 ## Stacks on which I work: SQLALchemy, Tensorflow, Scikit-learn, Nextcord, Disnake, Aiogram, Sikit-Image, Pandas, Keras, NumpPy and much more.
 
