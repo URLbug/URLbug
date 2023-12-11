@@ -1,6 +1,7 @@
 # Hi everyone ✋
 
-## I`m Rui Carter and I doing neural network, site, and bots in [<img src="https://cdn-icons-png.flaticon.com/512/87/87413.png" width="26">](Telegram) Telegram, [<img src="https://assets-global.website-files.com/6257adef93867e50d84d30e2/636e0a6a49cf127bf92de1e2_icon_clyde_blurple_RGB.png" width="26">](Discord) Discord. 
+## I`m Rui Carter and I doing neural network, site, and bots in [<img src="https://cdn-icons-png.flaticon.com/512/87/87413.png" width="26">](Telegram) Telegram, [<img src="https://assets-global.website-files.com/6257adef93867e50d84d30e2/636e0a6a49cf127bf92de1e2_icon_clyde_blurple_RGB.png" width="26">](Discord) Discord.
+## My <a href="https://www.codewars.com/users/Rui315">codewars</a> <img src="https://media1.tenor.com/m/xQtJvmYh6AcAAAAC/lmfao.gif" width="26">🔫
 
 ## Language on which I work: [<img src="https://cdn-icons-png.flaticon.com/512/2/2181.png" width="26">](Python) Python, [<img src="https://upload.wikimedia.org/wikipedia/commons/4/4f/Csharp_Logo.png" width="45">](С#) C#, [<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/PHP-logo.svg/1200px-PHP-logo.svg.png" width="45">](PHP) PHP.
 
