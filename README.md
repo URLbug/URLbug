@@ -1,26 +1,48 @@
-# Hi everyone ✋
+<div id="header" align="center">
+  
+  <img src="https://i.pinimg.com/originals/f0/cb/86/f0cb86f5cdaee8914c78a6592f13ecb3.gif" />
 
-## I`m Rui Carter and I doing neural network, site, and bots in [<img src="https://cdn-icons-png.flaticon.com/512/87/87413.png" width="26">](Telegram) Telegram, [<img src="https://assets-global.website-files.com/6257adef93867e50d84d30e2/636e0a6a49cf127bf92de1e2_icon_clyde_blurple_RGB.png" width="26">](Discord) Discord.
-## My <a href="https://www.codewars.com/users/Rui315">codewars</a> <img src="https://media1.tenor.com/m/xQtJvmYh6AcAAAAC/lmfao.gif" width="26">🔫
+  <div id="badges">
+    <a href="https://t.me/Hider030"><img src="https://img.shields.io/badge/Telegram-blue?logo=Telegram"></a>
+    <a href="https://discordapp.com/users/404191502345175050/"><img src="https://img.shields.io/badge/Discord-black?logo=Discord"></a>
+    <a href="https://www.codewars.com/users/Rui315"><img src="https://img.shields.io/badge/codewars-red?logo=codewars&logoColor=black"></a>
+    <a href="https://www.kaggle.com/rui314"><img src="https://img.shields.io/badge/kaggle-blue?logo=kaggle&logoColor=white"></a>
+  </div> 
 
-## Language on which I work: [<img src="https://cdn-icons-png.flaticon.com/512/2/2181.png" width="26">](Python) Python, [<img src="https://upload.wikimedia.org/wikipedia/commons/4/4f/Csharp_Logo.png" width="45">](С#) C#, [<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/PHP-logo.svg/1200px-PHP-logo.svg.png" width="45">](PHP) PHP.
+  <h1>
+    Hello World!
+  </h1>
+</div>
 
-## Stacks on which I work: SQLALchemy, Tensorflow, Scikit-learn, Nextcord, Disnake, Aiogram, Sikit-Image, Pandas, Keras, NumpPy and much more.
+ <img src="https://oir.mobi/uploads/posts/2021-03/1616363682_3-p-anime-fon-zakat-3.jpg" width="100%" height="340">
 
-## Language which I know: [<img src="https://upload.wikimedia.org/wikipedia/commons/4/4f/Csharp_Logo.png" width="45">](С#) C#, [<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/PHP-logo.svg/1200px-PHP-logo.svg.png" width="45">](PHP) PHP, [<img src="https://cdn-icons-png.flaticon.com/512/2/2181.png" width="26">](Python) Python, [<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/JavaScript-logo.png/800px-JavaScript-logo.png" width="26">](JS) JS,[<img src="https://upload.wikimedia.org/wikipedia/commons/1/18/ISO_C%2B%2B_Logo.svg" width="26">](C++) C++, [<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Lua-Logo.svg/1200px-Lua-Logo.svg.png" width="26">](Lua) Lua
+### :man_technologist: About Me :
+I`m Rui Carter and I doing neural network, site and much more.
+- 🏫 I`m student programmer Russia college. 
 
-## Database: [<img src="https://pngimg.com/uploads/mysql/mysql_PNG9.png" width="26">](MySQL) MySQL, [<img src="https://w7.pngwing.com/pngs/884/748/png-transparent-postgresql-computer-icons-database-angularjs-tencent-miscellaneous-blue-logo.png" width="26">](PostgreSQL) PostgreSQL [<img src="https://upload.wikimedia.org/wikipedia/commons/f/f8/Microsoft_Access_2013-2019_logo.svg" width="26">](Access) Access
+- 📖 I like student and make different programm.
 
-## Language markup [<img src="https://www.freepnglogos.com/uploads/html5-logo-png/html5-logo-file-html-logo-black-svg-wikimedia-commons-1.png" width="26">](html) HTML, [<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/CSS3_logo.svg/800px-CSS3_logo.svg.png" width="26">](css) CSS.
-
-## Other: [<img src="https://www.docker.com/wp-content/uploads/2022/03/Moby-logo.png" width="26"/>](Docker) Docker [<img src="https://git-scm.com/images/logos/downloads/Git-Icon-Black.png" width="26"/>](Git) Git
-
-## GitHub Stats
-
-[![My GitHub stats](https://github-readme-stats.vercel.app/api?username=urlbug)](https://github.com/urlbug/github-readme-stats)
-
-
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=your-github-username&theme=dark&background=000000)](https://git.io/streak-stats)
+- 🎮 I love to play "Elden Ring", "Ultrakill" and differents game sometimes.
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=urlbug&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+### 🧰 Language, stacks, database :
+<div>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/php/php-original.svg" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/tensorflow/tensorflow-original.svg" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/pytorch/pytorch-original.svg" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/lua/lua-original.svg" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original.svg" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original.svg" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original.svg" width="40" height="40"/>&nbsp;
+</div>
+
+## 🌟 GitHub Stats
+
+[![My GitHub stats](https://github-readme-stats.vercel.app/api?username=urlbug&theme=dark&background=000000)](https://git.io/streak-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=urlbug&layout=compact&theme=vision-friendly-dark)](https://git.io/streak-stats)
