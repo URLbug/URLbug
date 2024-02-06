@@ -25,7 +25,7 @@ I`m Rui Carter and I doing neural network, site and much more.
 - 🎮 I love to play "Elden Ring", "Ultrakill" and differents game sometimes.
 
 
-### 🧰 Language, stacks, database :
+### 🧰 Language, Stacks, Database :
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg" width="40" height="40"/>&nbsp;
@@ -46,3 +46,6 @@ I`m Rui Carter and I doing neural network, site and much more.
 
 [![My GitHub stats](https://github-readme-stats.vercel.app/api?username=urlbug&theme=dark&background=000000)](https://git.io/streak-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=urlbug&layout=compact&theme=vision-friendly-dark)](https://git.io/streak-stats)
+
+## 🏆 My Trophy
+[![trophy](https://github-profile-trophy.vercel.app/?username=urlbug)](https://github.com/urlbug/github-profile-trophy)
