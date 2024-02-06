@@ -9,12 +9,13 @@
     <a href="https://www.kaggle.com/rui314"><img src="https://img.shields.io/badge/kaggle-blue?logo=kaggle&logoColor=white"></a>
   </div> 
 
+  <img src="https://komarev.com/ghpvc/?username=urlbug&style=flat-square&color=blue" alt=""/>
+  
   <h1>
     Hello World!
   </h1>
 </div>
 
-<img src="https://komarev.com/ghpvc/?username=urlbug&style=flat-square&color=blue" alt=""/>
 <img src="https://oir.mobi/uploads/posts/2021-03/1616363682_3-p-anime-fon-zakat-3.jpg" width="100%" height="340">
 
 ### :man_technologist: About Me :
