@@ -17,7 +17,7 @@
   </h1>
 </div>
 
-<img src="https://oir.mobi/uploads/posts/2021-03/1616363682_3-p-anime-fon-zakat-3.jpg" width="100%" height="340">
+<img src="https://i.pinimg.com/originals/1d/36/01/1d360186bc419f2e91329a8793f1583f.gif" width="100%" height="340">
 
 ### :man_technologist: About Me :
 I`m Rui Carter and I doing neural network, site and much more.
@@ -44,6 +44,7 @@ I`m Rui Carter and I doing neural network, site and much more.
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original.svg" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/kotlin/kotlin-original.svg" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/laravel/laravel-line.svg" width="40" height="40"/>&nbsp;
 </div>
 
 ## 🌟 GitHub Stats
