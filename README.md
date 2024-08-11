@@ -7,7 +7,8 @@
     <a href="https://discordapp.com/users/404191502345175050/"><img src="https://img.shields.io/badge/Discord-black?logo=Discord"></a>
     <a href="https://www.codewars.com/users/Rui315"><img src="https://img.shields.io/badge/codewars-red?logo=codewars&logoColor=black"></a>
     <a href="https://www.kaggle.com/rui314"><img src="https://img.shields.io/badge/kaggle-blue?logo=kaggle&logoColor=white"></a>
-    <a href="https://mysite-c1hc.onrender.com/"><img src="https://img.shields.io/badge/MySIte-black?e&logoColor=white"></a>
+<!--     <a href="https://mysite-c1hc.onrender.com/"><img src="https://img.shields.io/badge/MySIte-black?e&logoColor=white"></a> -->
+    <a href="https://gitlab.com/URLbug"><img src="https://img.shields.io/badge/GitLab-white?logo=GitLab"></a>
   </div> 
 
   <img src="https://komarev.com/ghpvc/?username=urlbug&style=flat-square&color=blue" alt=""/>
