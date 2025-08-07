@@ -20,14 +20,6 @@
 
 <img src="https://i.pinimg.com/originals/1d/36/01/1d360186bc419f2e91329a8793f1583f.gif" width="100%" height="340">
 
-### :man_technologist: About Me :
-I`m Rui Carter and I doing neural network, site and much more.
-- 🏫 I`m student programmer Russia college. 
-
-- 📖 I like student and make different programm.
-
-- 🎮 I love to play "Elden Ring", "Ultrakill" and differents game sometimes.
-
 
 ### 🧰 Language, Stacks, Database :
 <div>
