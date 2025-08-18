@@ -14,12 +14,11 @@
   </h1>
 </div>
 
-<img src="https://i.pinimg.com/originals/1d/36/01/1d360186bc419f2e91329a8793f1583f.gif" width="100%" height="340">
-
 
 ### 🧰 Language, Stacks, Database :
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/go/go-original.svg" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/php/php-original.svg" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" width="40" height="40"/>&nbsp;
@@ -32,9 +31,4 @@
 </div>
 
 ## 🌟 GitHub Stats
-
-[![My GitHub stats](https://github-readme-stats.vercel.app/api?username=urlbug&theme=dark&background=000000)](https://git.io/streak-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=urlbug&layout=compact&theme=vision-friendly-dark)](https://git.io/streak-stats)
-
-## 🏆 My Trophy
-[![trophy](https://github-profile-trophy.vercel.app/?username=urlbug)](https://github.com/urlbug/github-profile-trophy)
