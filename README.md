@@ -31,4 +31,4 @@
 </div>
 
 ## 🌟 GitHub Stats
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=urlbug&layout=compact&theme=vision-friendly-dark)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=URLbug&layout=compact&theme=vision-friendly-dark)](https://git.io/streak-stats)
