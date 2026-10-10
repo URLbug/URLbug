@@ -4,6 +4,7 @@
 
   <div id="badges">
     <a href="https://www.codewars.com/users/Rui315"><img src="https://img.shields.io/badge/codewars-red?logo=codewars&logoColor=black"></a>
+    <a href="https://www.codewars.com/users/Rui315"><img src="https://img.shields.io/badge/leetcode-yellow?logo=leetcode&logoColor=black"></a>
   </div> 
 
   <img src="https://komarev.com/ghpvc/?username=urlbug&style=flat-square&color=blue" alt=""/>
