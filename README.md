@@ -1,17 +1,18 @@
 <div id="header" align="center">
   
-  <img src="https://i.pinimg.com/originals/f0/cb/86/f0cb86f5cdaee8914c78a6592f13ecb3.gif" />
+  <img src="./241765440-80728820-e06b-4f96-9c9e-9df46f0cc0a5.gif" width="500" />
 
   <div id="badges">
     <a href="https://www.codewars.com/users/Rui315"><img src="https://img.shields.io/badge/codewars-red?logo=codewars&logoColor=black"></a>
-    <a href="https://www.codewars.com/users/Rui315"><img src="https://img.shields.io/badge/leetcode-yellow?logo=leetcode&logoColor=black"></a>
+    <a href="https://leetcode.com/u/Rui_Carter/"><img src="https://img.shields.io/badge/leetcode-yellow?logo=leetcode&logoColor=black"></a>
   </div> 
 
-  <img src="https://komarev.com/ghpvc/?username=urlbug&style=flat-square&color=blue" alt=""/>
+  <img src="https://komarev.com/ghpvc/?username=URLbug&style=flat-square&color=blue" alt=""/>
   
   <h1>
-    Hello World!
+    Hello World! 👋 I'm Timur Davydov
   </h1>
+  <p>🚀 Python / Go / PHP Developer | Building robust backend systems</p>
 </div>
 
 
